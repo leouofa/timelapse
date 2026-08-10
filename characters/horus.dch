@@ -1,0 +1,49 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+&"_translation_id": "",
+&"color": Color(1, 1, 1, 1),
+&"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "Profile",
+&"description": "",
+&"display_name": "Horus",
+&"mirror": false,
+&"nicknames": [""],
+&"offset": Vector2(0, 0),
+&"portraits": {
+"Left": {
+"export_overrides": {
+"image": "\"res://images/horus_right.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Profile": {
+"export_overrides": {
+"image": "\"res://images/horus.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Right": {
+"export_overrides": {
+"image": "\"res://images/horus_right.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+}
+},
+&"scale": 1.0
+}

@@ -1,0 +1,50 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+&"_translation_id": "",
+&"color": Color(1, 0.890625, 0, 1),
+&"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "Profile",
+&"description": "King Osiris	",
+&"display_name": "Osiris",
+&"mirror": false,
+&"nicknames": ["K.O."],
+&"offset": Vector2(0, 0),
+&"portraits": {
+"Left": {
+"export_overrides": {
+"image": "\"res://images/osiris_right.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Profile": {
+"export_overrides": {
+"image": "\"res://images/osiris.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 2),
+"scale": 0.8,
+"scene": ""
+},
+"Right": {
+"export_overrides": {
+"image": "\"res://images/osiris_right.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+}
+},
+&"scale": 1.0
+}

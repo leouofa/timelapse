@@ -1,0 +1,11 @@
+[background arg="res://images/kitchen.jpg" fade="0.0"]
+join osiris (Right) leftmost
+osiris: How would that work?
+join vox (Left) rightmost [mirrored="true"]
+vox: We would send him back in time a trillion years ...
+vox: and have him arrive a miniute from now
+osiris (Profile): we could do that ...
+osiris: Horus can you setup a vessel?
+leave vox
+join horus (Left) rightmost
+horus: Already have one setup ....
