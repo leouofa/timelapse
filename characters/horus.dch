@@ -2,7 +2,7 @@
 "@path": "res://addons/dialogic/Resources/character.gd",
 "@subpath": NodePath(""),
 &"_translation_id": "",
-&"color": Color(1, 1, 1, 1),
+&"color": Color(0, 0.86769104, 0.99609375, 1),
 &"custom_info": {
 "prefix": "",
 "sound_mood_default": "",
@@ -10,7 +10,7 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Profile",
+&"default_portrait": "Left",
 &"description": "",
 &"display_name": "Horus",
 &"mirror": false,
@@ -19,27 +19,54 @@
 &"portraits": {
 "Left": {
 "export_overrides": {
-"image": "\"res://images/horus_right.png\""
+"image": "\"res://images/horus_left.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Left Angry": {
+"export_overrides": {
+"image": "\"res://images/horus_left_angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Left Happy": {
+"export_overrides": {
+"image": "\"res://images/horus_left_happy.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Right": {
+"export_overrides": {
+"image": "\"res://images/horus_left.png\""
 },
 "mirror": true,
 "offset": Vector2(0, 0),
 "scale": 0.8,
 "scene": ""
 },
-"Profile": {
+"Right Angry": {
 "export_overrides": {
-"image": "\"res://images/horus.png\""
+"image": "\"res://images/horus_left_angry.png\""
 },
-"mirror": false,
+"mirror": true,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 0.8,
 "scene": ""
 },
-"Right": {
+"Right Happy": {
 "export_overrides": {
-"image": "\"res://images/horus_right.png\""
+"image": "\"res://images/horus_left_happy.png\""
 },
-"mirror": false,
+"mirror": true,
 "offset": Vector2(0, 0),
 "scale": 0.8,
 "scene": ""

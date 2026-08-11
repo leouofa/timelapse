@@ -1,11 +1,31 @@
-[background arg="res://images/kitchen.jpg" fade="0.0"]
+[background arg="res://images/kitchen.png" fade="0.0"]
 join osiris (Right) leftmost
-osiris: How would that work?
+osiris (Right): How would that work?
 join vox (Left) rightmost [mirrored="true"]
-vox: We would send him back in time a trillion years ...
-vox: and have him arrive a miniute from now
-osiris (Profile): we could do that ...
-osiris: Horus can you setup a vessel?
+vox: We  send him back a trillion years ...
+vox: Then bring him back 5 miniute from now and kill him.
+osiris (Profile): We could do that ...
+osiris: Horus, can you prepare a vessel?
 leave vox
 join horus (Left) rightmost
-horus: Already have one setup ....
+horus (Left): Already have one ready.
+leave osiris
+leave horus
+[background arg="#e8390eff" fade="0.0"]
+[wait time="0.5"]
+[background arg="#fff500ff" fade="0.0"]
+[wait time="0.5"]
+[background arg="res://images/kitchen.jpg" fade="0.0"]
+join vox (Left) rightmost
+vox: Or we could rescue him four minutes from now...
+vox: Send him right back for another hundred thousand trillion years.
+join osiris (Right) leftmost
+osiris: That's actually a pretty funny prank.
+osiris: And people say I don't have a sense of humor.
+vox: We could even do it a third time.
+vox: He's practically a frequent flyer on Horus Airlines.
+leave osiris
+join horus (Right) leftmost
+horus: First two trips were first class.
+horus: Third one's coach.
+horus (Right Happy): No upgrades.
