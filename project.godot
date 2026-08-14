@@ -28,9 +28,12 @@ directories/dch_directory={
 directories/dtl_directory={
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl"
 }
-layout/style_directory={}
-layout/style_list=[]
-layout/default_style=""
+layout/style_directory={
+"": "res://speech_styles/default.tres",
+"default": "res://speech_styles/default.tres"
+}
+layout/style_list=["res://speech_styles/default.tres"]
+layout/default_style="res://speech_styles/default.tres"
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
 text/text_reveal_skip_delay=0.1

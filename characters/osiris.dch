@@ -19,28 +19,84 @@
 &"portraits": {
 "Left": {
 "export_overrides": {
-"image": "\"res://images/osiris_right.png\""
+"image": "\"res://images/osiris_left.png\""
 },
-"mirror": true,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Left Angry": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Left Happy": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_happy.png\""
+},
+"mirror": false,
 "offset": Vector2(0, 0),
 "scale": 0.8,
 "scene": ""
 },
 "Profile": {
 "export_overrides": {
-"image": "\"res://images/osiris.png\""
+"image": "\"res://images/osiris_profile.png\""
 },
 "ignore_char_scale": false,
 "mirror": false,
-"offset": Vector2(0, 2),
-"scale": 0.8,
+"offset": Vector2(0, 0),
+"scale": 0.7,
+"scene": ""
+},
+"Profile Angry": {
+"export_overrides": {
+"image": "\"res://images/osiris_profile_angry.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.7,
+"scene": ""
+},
+"Profile Happy": {
+"export_overrides": {
+"image": "\"res://images/osiris_profile_happy.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.7,
 "scene": ""
 },
 "Right": {
 "export_overrides": {
-"image": "\"res://images/osiris_right.png\""
+"image": "\"res://images/osiris_left.png\""
 },
-"mirror": false,
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Right Angry": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_angry.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.8,
+"scene": ""
+},
+"Right Happy": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_happy.png\""
+},
+"mirror": true,
 "offset": Vector2(0, 0),
 "scale": 0.8,
 "scene": ""
