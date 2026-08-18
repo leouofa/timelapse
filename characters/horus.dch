@@ -14,7 +14,7 @@
 &"description": "",
 &"display_name": "Horus",
 &"mirror": false,
-&"nicknames": [""],
+&"nicknames": ["Timeless"],
 &"offset": Vector2(0, 0),
 &"portraits": {
 "Left": {
@@ -23,7 +23,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Left Angry": {
@@ -32,7 +32,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Left Happy": {
@@ -41,7 +41,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Profile": {
@@ -50,7 +50,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 0.6,
 "scene": ""
 },
 "Profile Angry": {
@@ -59,7 +59,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 0.6,
 "scene": ""
 },
 "Profile Happy": {
@@ -68,7 +68,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 0.6,
 "scene": ""
 },
 "Right": {
@@ -77,7 +77,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Right Angry": {
@@ -86,7 +86,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Right Happy": {
@@ -95,7 +95,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 }
 },

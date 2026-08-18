@@ -23,7 +23,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Left Angry": {
@@ -32,7 +32,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Left Happy": {
@@ -41,7 +41,7 @@
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Profile": {
@@ -51,7 +51,7 @@
 "ignore_char_scale": false,
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.7,
+"scale": 0.6,
 "scene": ""
 },
 "Profile Angry": {
@@ -61,7 +61,7 @@
 "ignore_char_scale": false,
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.7,
+"scale": 0.6,
 "scene": ""
 },
 "Profile Happy": {
@@ -71,7 +71,7 @@
 "ignore_char_scale": false,
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 0.7,
+"scale": 0.6,
 "scene": ""
 },
 "Right": {
@@ -80,7 +80,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Right Angry": {
@@ -89,7 +89,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 },
 "Right Happy": {
@@ -98,7 +98,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 0.8,
+"scale": 0.6,
 "scene": ""
 }
 },

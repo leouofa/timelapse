@@ -1,5 +1,5 @@
 [background arg="res://images/kitchen.png" fade="0.0"]
-join osiris (Right) left
+join osiris (Right Happy) leftmost
 osiris (Right): How would that work?
 join vox (Left) rightmost
 vox: We  send him back a trillion years ...
