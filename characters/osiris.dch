@@ -1,0 +1,106 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+&"_translation_id": "",
+&"color": Color(1, 0.890625, 0, 1),
+&"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "Profile",
+&"description": "King Osiris	",
+&"display_name": "Osiris",
+&"mirror": false,
+&"nicknames": ["K.O."],
+&"offset": Vector2(0, 0),
+&"portraits": {
+"Left": {
+"export_overrides": {
+"image": "\"res://images/osiris_left.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Left Angry": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Left Happy": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_happy.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Profile": {
+"export_overrides": {
+"image": "\"res://images/osiris_profile.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Profile Angry": {
+"export_overrides": {
+"image": "\"res://images/osiris_profile_angry.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Profile Happy": {
+"export_overrides": {
+"image": "\"res://images/osiris_profile_happy.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Right": {
+"export_overrides": {
+"image": "\"res://images/osiris_left.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Right Angry": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_angry.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+},
+"Right Happy": {
+"export_overrides": {
+"image": "\"res://images/osiris_left_happy.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 0.6,
+"scene": ""
+}
+},
+&"scale": 1.0
+}
