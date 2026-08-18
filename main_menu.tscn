@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://bm2c8y2jkhpup" path="res://main_menu.gd" id="1"]
 [ext_resource type="Texture2D" uid="uid://xyk1h3wrsjra" path="res://images/kitchen.png" id="2"]
-[ext_resource type="AudioStream" path="res://music/start_screen.ogg" id="3"]
+[ext_resource type="AudioStream" uid="uid://dojlhe5ybf7ou" path="res://music/Three Red Hearts Three Red Hearts.ogg" id="3_fu7sn"]
 
 [node name="MainMenu" type="Control" unique_id=1686684641]
 layout_mode = 3
@@ -62,8 +62,10 @@ custom_minimum_size = Vector2(200, 40)
 layout_mode = 2
 text = "Continue"
 
-[node name="Music" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("3")
+[node name="Music" type="AudioStreamPlayer" parent="." unique_id=479062540]
+stream = ExtResource("3_fu7sn")
+volume_db = -1.825
+parameters/looping = true
 
 [connection signal="pressed" from="VBoxContainer/NewGameButton" to="." method="_on_new_game_pressed"]
 [connection signal="pressed" from="VBoxContainer/ContinueButton" to="." method="_on_continue_pressed"]
