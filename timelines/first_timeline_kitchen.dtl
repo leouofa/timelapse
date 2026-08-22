@@ -1,32 +1,51 @@
-[save]
+[save slot=""]
+audio music "res://music/first_timeline_kitchen.ogg"
 [background arg="res://images/kitchen.png" fade="0.0"]
-join osiris (Right Happy) leftmost
-osiris (Right): How would that work?
+join osiris (Right) leftmost
 join vox (Left) rightmost
-vox: We  send him back a trillion years ...
-vox (Left Happy): Then bring him back 5 miniute from now and kill him.
+osiris (Right): How would that work?
+vox: We load him into a spaceship and fling him back in time a trillion years, minus five minutes...
+vox: Set the coordinates right toward us at sub-light speed so the return flight takes exactly a trillion years.
+vox (Left Angry): He arrives five minutes from now, smashing directly into the kitchen wall at terminal velocity.
+vox (Left Angry): And make sure the viewing port shows the void outside slowly cycling across the color wheel over that trillion years.
+vox: Just a single, glacial spectrum sweep—so after five hundred billion years he's sitting there going, "Man, remember when it used to be light blue?"
+vox (Left Angry): All while an unbearable pure tone shifts from the lowest sub-bass to the highest pitch imaginable.
 osiris (Profile): We could do that ...
-osiris: Horus, can you prepare a vessel?
+osiris (Profile Angry): Horus, can you prepare a vessel?
 leave vox
 join horus (Left) rightmost
 horus (Left): Already have one ready.
 leave osiris
 leave horus
+join vox (Profile Angry Large) center
+vox (Profile Angry Large): You're going to the discoteque motherfucker
+leave vox
 [background arg="#e8390eff" fade="0.0"]
 [wait time="0.5"]
+4 minutes later ...
+[background arg="#fff500ff" fade="0.0"]
+[wait time="0.5"]
+[background arg="res://images/kitchen.png" fade="0.0"]
+join vox (Left Angry) rightmost
+join osiris (Right Angry) leftmost
+vox (Left Angry): We could rescue him before he dies ...
+vox (Left Happy): Send him right back for another hundred thousand trillion years.
+osiris (Right Happy): That's actually a pretty funny prank.
+osiris (Profile Happy): And people say I don't have a sense of humor.
+leave vox
+leave osiris
+[background arg="#e8390eff" fade="0.0"]
+[wait time="0.5"]
+4 minutes later ...
 [background arg="#fff500ff" fade="0.0"]
 [wait time="0.5"]
 [background arg="res://images/kitchen.png" fade="0.0"]
 join vox (Left) rightmost
-vox: Or we could rescue him four minutes from now...
-vox: Send him right back for another hundred thousand trillion years.
 join osiris (Right) leftmost
-osiris: That's actually a pretty funny prank.
-osiris: And people say I don't have a sense of humor.
-vox: We could even do it a third time.
-vox: He's practically a frequent flyer on Horus Airlines.
+vox (Left Happy): We could it again, but this time hundred thousand trillion to the power of hundred thousand trillion.
+osiris (Right Happy): He's practically a frequent flyer on Horus Airlines.
 leave osiris
 join horus (Right) leftmost
-horus: First two trips were first class.
-horus: Third one's coach.
-horus (Right Happy): No upgrades.
+horus (Right Happy): First two trips were first class.
+horus (Right Happy): Third one's coach.
+horus (Right Angry): No upgrades.
