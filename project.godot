@@ -71,6 +71,7 @@ animations/join_default="Fade In Up"
 glossary/default_case_sensitive=true
 save/autosave=true
 save/autosave_mode=0
+variables={}
 
 [display]
 
@@ -100,3 +101,4 @@ dialogic_default_action={
 [rendering]
 
 rendering_device/driver.windows="d3d12"
+textures/vram_compression/import_etc2_astc=true

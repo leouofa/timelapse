@@ -55,11 +55,13 @@ layout_mode = 2
 [node name="NewGameButton" type="Button" parent="VBoxContainer" unique_id=1723789348]
 custom_minimum_size = Vector2(200, 40)
 layout_mode = 2
+mouse_default_cursor_shape = 2
 text = "New Game"
 
 [node name="ContinueButton" type="Button" parent="VBoxContainer" unique_id=649220174]
 custom_minimum_size = Vector2(200, 40)
 layout_mode = 2
+mouse_default_cursor_shape = 2
 text = "Continue"
 
 [node name="Music" type="AudioStreamPlayer" parent="." unique_id=479062540]
