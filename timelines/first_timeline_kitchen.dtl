@@ -4,12 +4,12 @@ audio music "res://music/first_timeline_kitchen.ogg"
 join osiris (Right) leftmost
 join vox (Left) rightmost
 osiris (Right): How would that work?
-vox: We load him into a spaceship and fling him back in time a trillion years, minus five minutes...
-vox: Set the coordinates right toward us at sub-light speed so the return flight takes exactly a trillion years.
-vox (Left Angry): He arrives five minutes from now, smashing directly into the kitchen wall at terminal velocity.
-vox (Left Angry): And make sure the viewing port shows the void outside slowly cycling across the color wheel over that trillion years.
-vox: Just a single, glacial spectrum sweep—so after five hundred billion years he's sitting there going, "Man, remember when it used to be light blue?"
-vox (Left Angry): All while an unbearable pure tone shifts from the lowest sub-bass to the highest pitch imaginable.
+vox: A ship. Fling him back. A trillion years.
+vox: Light speed. Pointed exactly here.
+vox (Left Angry): He hits this wall in five minutes. Terminal velocity.
+vox (Left Angry): The view? Just the void. Shifting colors. Snail pace.
+vox: Billions of years just to see a new shade of blue.
+vox (Left Angry): Add a pure tone. Shifting upward. Endlessly.
 osiris (Profile): We could do that ...
 osiris (Profile Angry): Horus, can you prepare a vessel?
 leave vox
@@ -18,7 +18,7 @@ horus (Left): Already have one ready.
 leave osiris
 leave horus
 join vox (Profile Angry Large) center
-vox (Profile Angry Large): You're going to the discoteque motherfucker
+vox (Profile Angry Large): Enjoy the absolute nothing, motherfucker.
 leave vox
 [background arg="#e8390eff" fade="0.0"]
 [wait time="0.5"]
@@ -28,9 +28,10 @@ leave vox
 [background arg="res://images/kitchen.png" fade="0.0"]
 join vox (Left Angry) rightmost
 join osiris (Right Angry) leftmost
-vox (Left Angry): We could rescue him before he dies ...
-vox (Left Happy): Send him right back for another hundred thousand trillion years.
-osiris (Right Happy): That's actually a pretty funny prank.
+vox (Left Angry): He's about to hit.
+vox (Left Happy): Let's pull him out. Reset it.
+vox (Left Happy): A hundred thousand trillion this time.
+osiris (Profile): That's a funny prank.
 osiris (Profile Happy): And people say I don't have a sense of humor.
 leave vox
 leave osiris
@@ -42,10 +43,11 @@ leave osiris
 [background arg="res://images/kitchen.png" fade="0.0"]
 join vox (Left) rightmost
 join osiris (Right) leftmost
-vox (Left Happy): We could it again, but this time hundred thousand trillion to the power of hundred thousand trillion.
-osiris (Right Happy): He's practically a frequent flyer on Horus Airlines.
+vox (Left Happy): We could it again
+vox (Profile Happy): This time hundred thousand trill to the power of itself.
+osiris (Right Happy): He's a frequent flyer on Horus Airlines.
 leave osiris
 join horus (Right) leftmost
 horus (Right Happy): First two trips were first class.
 horus (Right Happy): Third one's coach.
-horus (Right Angry): No upgrades.
+horus (Profile Happy): No upgrades.
