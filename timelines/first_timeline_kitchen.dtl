@@ -10,7 +10,7 @@ vox (Left Angry): He hits this wall in five minutes. Terminal velocity.
 vox (Left Angry): The view? Just the void. Shifting colors. Snail pace.
 vox: Billions of years just to see a new shade of blue.
 vox (Left Angry): Add a pure tone. Shifting upward. Endlessly.
-osiris (Profile): We could do that ...
+osiris (Profile): We could do that.
 osiris (Profile Angry): Horus, can you prepare a vessel?
 leave vox
 join horus (Left) rightmost
@@ -43,7 +43,7 @@ leave osiris
 [background arg="res://images/kitchen.png" fade="0.0"]
 join vox (Left) rightmost
 join osiris (Right) leftmost
-vox (Left Happy): We could it again
+vox (Left Happy): We could it again.
 vox (Profile Happy): This time hundred thousand trill to the power of itself.
 osiris (Right Happy): He's a frequent flyer on Horus Airlines.
 leave osiris
@@ -51,3 +51,10 @@ join horus (Right) leftmost
 horus (Right Happy): First two trips were first class.
 horus (Right Happy): Third one's coach.
 horus (Profile Happy): No upgrades.
+leave horus
+leave vox
+audio music -
+[background arg="#84efffff" fade="0.5" transition="Simple Fade"]
+[wait time="0.5"]
+One year later ...
+jump second_timeline_appartment/

@@ -27,7 +27,8 @@ directories/dch_directory={
 "vox": "res://characters/vox.dch"
 }
 directories/dtl_directory={
-"first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl"
+"first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
+"second_timeline_appartment": "res://characters/second_timeline_appartment.dtl"
 }
 layout/style_directory={
 "": "res://speech_styles/default.tres",

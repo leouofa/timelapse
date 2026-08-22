@@ -15,7 +15,7 @@
 &"display_name": "Horus",
 &"mirror": false,
 &"nicknames": ["Timeless"],
-&"offset": Vector2(0, 0),
+&"offset": Vector2(0, 5),
 &"portraits": {
 "Left": {
 "export_overrides": {
