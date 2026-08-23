@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://xyk1h3wrsjra"
-path="res://.godot/imported/kitchen.png-bb7717ea277dc53c53f0e3b213d832c9.ctex"
+uid="uid://cj8o872o7w5l3"
+path="res://.godot/imported/aphrodite_left.png-09e91b45575173c165f7f8e1dc0f192d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/kitchen.png"
-dest_files=["res://.godot/imported/kitchen.png-bb7717ea277dc53c53f0e3b213d832c9.ctex"]
+source_file="res://images/aphrodite_left.png"
+dest_files=["res://.godot/imported/aphrodite_left.png-09e91b45575173c165f7f8e1dc0f192d.ctex"]
 
 [params]
 

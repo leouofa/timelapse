@@ -22,6 +22,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"aphrodite": "res://characters/aphrodite.dch",
 "horus": "res://characters/horus.dch",
 "osiris": "res://characters/osiris.dch",
 "vox": "res://characters/vox.dch"

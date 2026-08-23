@@ -1,6 +1,6 @@
 [save slot=""]
 audio music "res://music/first_timeline_kitchen.ogg"
-[background arg="res://images/kitchen.png" fade="0.0"]
+[background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join osiris (Right) leftmost
 join vox (Left) rightmost
 osiris (Right): How would that work?
@@ -25,11 +25,11 @@ leave vox
 4 minutes later ...
 [background arg="#fff500ff" fade="0.0"]
 [wait time="0.5"]
-[background arg="res://images/kitchen.png" fade="0.0"]
+[background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join vox (Left Angry) rightmost
 join osiris (Right Angry) leftmost
-vox (Left Angry): He's about to hit.
-vox (Left Happy): Let's pull him out. Reset it.
+osiris (Right Angry): He's about to hit.
+vox (Left Happy): Let's pull him out and resend him.
 vox (Left Happy): A hundred thousand trillion this time.
 osiris (Profile): That's a funny prank.
 osiris (Profile Happy): And people say I don't have a sense of humor.
@@ -55,6 +55,6 @@ leave horus
 leave vox
 audio music -
 [background arg="#84efffff" fade="0.5" transition="Simple Fade"]
-[wait time="0.5"]
+[wait time="1.0"]
 One year later ...
 jump second_timeline_appartment/
