@@ -7,8 +7,19 @@ osiris: I'm not sure.
 horus: Did he get timelined?
 join aphrodite (Pro Angry LG) center
 aphrodite: This has to stop!
-horus: What are you talking about?
 leave osiris
-update aphrodite (Left Angry) rightmost
+update aphrodite (Left Angry) rightmost [animation="Heartbeat" fade="Fade Cross" fade_length="0.2"]
+horus: What are you talking about?
 aphrodite: The treatmeant of Watsu.
-aphrodite: He is a personal friend of mine and a hero to many.
+aphrodite: He is a personal friend of mine,  and a hero to many goddesses.
+aphrodite: Suprema is going to award him a medal of honor.
+horus: ???
+horus: That's fine and all, but he's still a psychopath and a murderer.
+horus (Right Happy): Do you plan to do anything about this.
+aphrodite (Left): He is under our protection.
+leave horus [animation="Bounce Out"]
+join osiris (Right Happy) leftmost [animation="Bounce In"]
+osiris: Super cool ...
+osiris (Right): We still need to do something about this.
+aphrodite: That's your problem not mine.
+osiris (Right): The plan is to send him to hell.

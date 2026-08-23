@@ -57,4 +57,5 @@ audio music -
 [background arg="#84efffff" fade="0.5" transition="Simple Fade"]
 [wait time="1.0"]
 One year later ...
+[wait time="1.0"]
 jump second_timeline_appartment/
