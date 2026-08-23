@@ -10,7 +10,7 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Profile",
+&"default_portrait": "Pro",
 &"description": "",
 &"display_name": "Aphrodite",
 &"mirror": false,
@@ -44,7 +44,7 @@
 "scale": 1,
 "scene": ""
 },
-"Profile": {
+"Pro": {
 "export_overrides": {
 "image": "\"res://images/aphrodite_profile.png\""
 },
@@ -53,7 +53,7 @@
 "scale": 1,
 "scene": ""
 },
-"Profile Angry": {
+"Pro Angry": {
 "export_overrides": {
 "image": "\"res://images/aphrodite_profile_angry.png\""
 },
@@ -62,7 +62,17 @@
 "scale": 1,
 "scene": ""
 },
-"Profile Happy": {
+"Pro Angry LG": {
+"export_overrides": {
+"image": "\"res://images/aphrodite_profile_angry.png\""
+},
+"ignore_char_scale": true,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.7,
+"scene": ""
+},
+"Pro Happy": {
 "export_overrides": {
 "image": "\"res://images/aphrodite_profile_happy.png\""
 },
@@ -99,5 +109,5 @@
 "scene": ""
 }
 },
-&"scale": 1.0
+&"scale": 0.5
 }

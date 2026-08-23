@@ -10,7 +10,7 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "Profile",
+&"default_portrait": "Left",
 &"description": "",
 &"display_name": "Voxar",
 &"mirror": false,
@@ -44,7 +44,7 @@
 "scale": 0.5,
 "scene": ""
 },
-"Profile": {
+"Pro": {
 "export_overrides": {
 "image": "\"res://images/vox_profile.png\""
 },
@@ -53,7 +53,7 @@
 "scale": 0.5,
 "scene": ""
 },
-"Profile Angry": {
+"Pro Angry": {
 "export_overrides": {
 "image": "\"res://images/vox_profile_angry.png\""
 },
@@ -62,7 +62,7 @@
 "scale": 0.5,
 "scene": ""
 },
-"Profile Angry Large": {
+"Pro Angry LG": {
 "export_overrides": {
 "image": "\"res://images/vox_profile_angry.png\""
 },
@@ -71,7 +71,7 @@
 "scale": 0.7,
 "scene": ""
 },
-"Profile Happy": {
+"Pro Happy": {
 "export_overrides": {
 "image": "\"res://images/vox_profile_happy.png\""
 },

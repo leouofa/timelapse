@@ -4,4 +4,11 @@ join horus (Right) leftmost
 join osiris (Left) rightmost
 horus: What happened to Watsu?
 osiris: I'm not sure.
-osiris: Did he get timelined?
+horus: Did he get timelined?
+join aphrodite (Pro Angry LG) center
+aphrodite: This has to stop!
+horus: What are you talking about?
+leave osiris
+update aphrodite (Left Angry) rightmost
+aphrodite: The treatmeant of Watsu.
+aphrodite: He is a personal friend of mine and a hero to many.
