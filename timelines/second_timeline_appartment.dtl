@@ -1,5 +1,6 @@
 [save slot=""]
-[background arg="#00ccffff" fade="0.0"]
+audio music "res://music/second_timeline.ogg"
+[background arg="res://backgrounds/heavenly_council_room.jpeg" fade="0.0"]
 join horus (Right) leftmost
 join osiris (Left) rightmost
 horus: What happened to Watsu?
@@ -12,14 +13,19 @@ update aphrodite (Left Angry) rightmost [animation="Heartbeat" fade="Fade Cross"
 horus: What are you talking about?
 aphrodite: The treatmeant of Watsu.
 aphrodite: He is a personal friend of mine,  and a hero to many goddesses.
-aphrodite: Suprema is going to award him a medal of honor.
+aphrodite: Suprema is going to award him a medal of the goddess.
 horus: ???
 horus: That's fine and all, but he's still a psychopath and a murderer.
-horus (Right Happy): Do you plan to do anything about this.
+horus (Right Angry): Do you plan to do anything about this.
 aphrodite (Left): He is under our protection.
 leave horus [animation="Bounce Out"]
-join osiris (Right Happy) leftmost [animation="Bounce In"]
+join osiris (Right Angry) leftmost [animation="Bounce In"]
 osiris: Super cool ...
-osiris (Right): We still need to do something about this.
+leave osiris [animation="Bounce Out"]
+join horus (Pro) leftmost [animation="Bounce In"]
+horus (Right): We still need to do something about this.
 aphrodite: That's your problem not mine.
-osiris (Right): The plan is to send him to hell.
+leave horus [animation="Bounce Out"]
+join osiris (Pro) leftmost [animation="Bounce In"]
+osiris (Right): We plan to send him to hell.
+aphrodite: Over Supremas dead body.
