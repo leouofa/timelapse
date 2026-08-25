@@ -20,7 +20,7 @@ horus (Right Angry): Do you plan to do anything about this.
 aphrodite (Left): He is under our protection.
 leave horus [animation="Bounce Out"]
 join osiris (Right Angry) leftmost [animation="Bounce In"]
-osiris: Super cool ...
+osiris: ummm ok ...
 leave osiris [animation="Bounce Out"]
 join horus (Pro) leftmost [animation="Bounce In"]
 horus (Right): We still need to do something about this.
@@ -29,3 +29,9 @@ leave horus [animation="Bounce Out"]
 join osiris (Pro) leftmost [animation="Bounce In"]
 osiris (Right): We plan to send him to hell.
 aphrodite: Over Supremas dead body.
+osiris (Right): I hope she dies and takes him with her.
+aphrodite: I'll pass the message over.
+osiris (Right Happy): Horus, do we have any poision we can lend her?
+leave osiris [animation="Bounce Out"]
+join horus (Right Happy) leftmost [animation="Bounce In"]
+horus: I some I've prepared just for her.
