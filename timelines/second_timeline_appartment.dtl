@@ -31,7 +31,7 @@ osiris (Right): We plan to send him to hell.
 aphrodite: Over Supremas dead body.
 osiris (Right): I hope she dies and takes him with her.
 aphrodite: I'll pass the message over.
-osiris (Right Happy): Horus, do we have any poision we can lend her?
+osiris (Right Angry): Horus, do we have any poision we can lend her?
 leave osiris [animation="Bounce Out"]
 join horus (Right Happy) leftmost [animation="Bounce In"]
-horus: I some I've prepared just for her.
+horus: I have some prepared just for her.
