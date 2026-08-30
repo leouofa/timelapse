@@ -1,4 +1,6 @@
-[background arg="#00b7ffff" fade="0.0"]
+[save slot=""]
+audio music "res://music/third_timeline.ogg"
+[background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
 join lucifer (Left) rightmost
 join jurema (Right) leftmost
 jurema: Lucifer, are you ok?
@@ -28,4 +30,4 @@ leave aphrodite [animation="Bounce Out"]
 join jurema (Right) leftmost [animation="Bounce In"]
 jurema: Other then the joke he made
 jurema: Which I personally found tasteless
-lucifer (Pro Angry): This has to get better
+lucifer (Pro Angry): This has got to get better

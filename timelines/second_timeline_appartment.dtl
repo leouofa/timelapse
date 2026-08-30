@@ -32,6 +32,14 @@ aphrodite: Over Suprema's dead body.
 osiris (Right): I hope she dies and takes him with her.
 aphrodite: I'll pass the message over.
 osiris (Right Angry): Horus, do we have any poision we can lend her?
-horus: I have some prepared just for her.
 leave osiris [animation="Bounce Out"]
-join horus (Right Happy) leftmost [animation="Bounce In"]
+join horus (Pro) leftmost [animation="Bounce In"]
+horus (Pro Happy): I have some prepared just for her.
+leave horus [animation="Bounce Out"]
+leave aphrodite [animation="Bounce In"]
+audio music -
+[background arg="#84efffff" fade="0.5" transition="Simple Fade"]
+[wait time="1.0"]
+One week later ...
+[wait time="1.0"]
+jump third_timeline/
