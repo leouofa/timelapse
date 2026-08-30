@@ -1,0 +1,31 @@
+[background arg="#00b7ffff" fade="0.0"]
+join lucifer (Left) rightmost
+join jurema (Right) leftmost
+jurema: Lucifer, are you ok?
+lucifer: I don't thik I'll ever be ok after what happened
+jurema (Right Angry): What did Osiris do?
+lucifer (Left Angry): I can't find words for what happened
+leave jurema [animation="Bounce Out"]
+join aphrodite (Right Angry) leftmost [animation="Bounce In"]
+aphrodite: I don't understand
+update lucifer (Left)
+Everything was fine yesterday
+lucifer (Left): Please don't talk about time
+lucifer (Left): It makes me furious
+leave aphrodite [animation="Bounce Out"]
+join jurema (Right Angry) leftmost [animation="Bounce In"]
+jurema: We need to understand what happened
+lucifer: I need to talk to Suprema
+jurema: She won't see anyone
+lucifer (Left Angry): Why the hell not?
+aphrodite: She fell ill
+leave jurema [animation="Bounce Out"]
+join aphrodite (Right) leftmost [animation="Bounce In"]
+aphrodite: I think she was poisoned
+update lucifer (Left) [fade="Fade Cross"]
+aphrodite: I suspect Horus but we have no proof
+leave aphrodite [animation="Bounce Out"]
+join jurema (Right) leftmost [animation="Bounce In"]
+jurema: Other then the joke he made
+jurema: Which I personally found tasteless
+lucifer (Pro Angry): This has to get better

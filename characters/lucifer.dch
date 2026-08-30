@@ -31,7 +31,7 @@
 "image": "\"res://images/lucifer_left_angry.png\""
 },
 "mirror": false,
-"offset": Vector2(0, 0),
+"offset": Vector2(0, 2),
 "scale": 1,
 "scene": ""
 },
@@ -85,7 +85,7 @@
 "image": "\"res://images/lucifer_left_angry.png\""
 },
 "mirror": true,
-"offset": Vector2(0, 0),
+"offset": Vector2(0, 2),
 "scale": 1,
 "scene": ""
 },
