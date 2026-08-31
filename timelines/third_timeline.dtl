@@ -21,13 +21,11 @@ lucifer: I need to talk to Suprema
 jurema: She won't see anyone
 lucifer (Left Angry): Why the hell not?
 aphrodite: She fell ill
-leave jurema [animation="Bounce Out"]
-join aphrodite (Right) leftmost [animation="Bounce In"]
+update lucifer (Pro LG) center [fade="Fade Cross"]
+join aphrodite (Left) rightmost [animation="Bounce In"]
 aphrodite: I think she was poisoned
-update lucifer (Left) [fade="Fade Cross"]
 aphrodite: I suspect Horus but we have no proof
-leave aphrodite [animation="Bounce Out"]
-join jurema (Right) leftmost [animation="Bounce In"]
 jurema: Other then the joke he made
 jurema: Which I personally found tasteless
-lucifer (Pro Angry): This has got to get better
+update lucifer (Pro LG) [animation="Heartbeat" fade="Fade Cross"]
+lucifer (Pro Angry LG): This has got to get better
