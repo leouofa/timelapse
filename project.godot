@@ -31,6 +31,7 @@ directories/dch_directory={
 }
 directories/dtl_directory={
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
+"fourth_timeline": "res://timelines/fourth_timeline.dtl",
 "second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl",
 "third_timeline": "res://timelines/third_timeline.dtl"
 }
