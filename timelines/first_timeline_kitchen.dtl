@@ -1,6 +1,6 @@
 [save slot=""]
 audio music "res://music/first_timeline_kitchen.ogg"
-[background arg="res://images/kitchen.png" fade="0.0"]
+[background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join osiris (Right) leftmost
 join vox (Left) rightmost
 osiris (Right): How would that work?
@@ -10,29 +10,29 @@ vox (Left Angry): He hits this wall in five minutes. Terminal velocity.
 vox (Left Angry): The view? Just the void. Shifting colors. Snail pace.
 vox: Billions of years just to see a new shade of blue.
 vox (Left Angry): Add a pure tone. Shifting upward. Endlessly.
-osiris (Profile): We could do that.
-osiris (Profile Angry): Horus, can you prepare a vessel?
+osiris (Pro): We could do that.
+osiris (Pro Angry): Horus, can you prepare a vessel?
 leave vox
 join horus (Left) rightmost
 horus (Left): Already have one ready.
 leave osiris
 leave horus
-join vox (Profile Angry Large) center
-vox (Profile Angry Large): Enjoy the absolute nothing, motherfucker.
+join vox (Pro Angry LG) center
+vox (Pro Angry LG): Enjoy the absolute nothing, motherfucker.
 leave vox
 [background arg="#e8390eff" fade="0.0"]
 [wait time="0.5"]
 4 minutes later ...
 [background arg="#fff500ff" fade="0.0"]
 [wait time="0.5"]
-[background arg="res://images/kitchen.png" fade="0.0"]
+[background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join vox (Left Angry) rightmost
 join osiris (Right Angry) leftmost
-vox (Left Angry): He's about to hit.
-vox (Left Happy): Let's pull him out. Reset it.
+osiris (Right Angry): He's about to hit.
+vox (Left Happy): Let's pull him out and resend him.
 vox (Left Happy): A hundred thousand trillion this time.
-osiris (Profile): That's a funny prank.
-osiris (Profile Happy): And people say I don't have a sense of humor.
+osiris (Pro Happy): That's a funny prank.
+osiris (Pro Happy): And people say I don't have a sense of humor.
 leave vox
 leave osiris
 [background arg="#e8390eff" fade="0.0"]
@@ -40,21 +40,22 @@ leave osiris
 4 minutes later ...
 [background arg="#fff500ff" fade="0.0"]
 [wait time="0.5"]
-[background arg="res://images/kitchen.png" fade="0.0"]
+[background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join vox (Left) rightmost
 join osiris (Right) leftmost
 vox (Left Happy): We could it again.
-vox (Profile Happy): This time hundred thousand trill to the power of itself.
+vox (Pro Happy): This time hundred thousand trill to the power of itself.
 osiris (Right Happy): He's a frequent flyer on Horus Airlines.
 leave osiris
 join horus (Right) leftmost
 horus (Right Happy): First two trips were first class.
 horus (Right Happy): Third one's coach.
-horus (Profile Happy): No upgrades.
+horus (Pro Happy): No upgrades.
 leave horus
 leave vox
 audio music -
 [background arg="#84efffff" fade="0.5" transition="Simple Fade"]
-[wait time="0.5"]
+[wait time="1.0"]
 One year later ...
+[wait time="1.0"]
 jump second_timeline_appartment/

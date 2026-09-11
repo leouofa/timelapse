@@ -1,0 +1,5 @@
+[save slot=""]
+audio music "res://music/second_timeline.ogg"
+[background arg="res://backgrounds/heavenly_council_room.jpeg" fade="0.0"]
+join horus (Right) leftmost
+join osiris (Left) rightmost

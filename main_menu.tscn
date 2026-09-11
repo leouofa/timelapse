@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://dsbyugw1n30qt"]
 
 [ext_resource type="Script" uid="uid://bm2c8y2jkhpup" path="res://main_menu.gd" id="1"]
-[ext_resource type="Texture2D" uid="uid://xyk1h3wrsjra" path="res://images/kitchen.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://xyk1h3wrsjra" path="res://backgrounds/kitchen.png" id="2"]
 [ext_resource type="AudioStream" uid="uid://dojlhe5ybf7ou" path="res://music/Three Red Hearts Three Red Hearts.ogg" id="3_fu7sn"]
 
 [node name="MainMenu" type="Control" unique_id=1686684641]

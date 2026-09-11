@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://xyk1h3wrsjra"
-path="res://.godot/imported/kitchen.png-bb7717ea277dc53c53f0e3b213d832c9.ctex"
+uid="uid://dg5nqawj6xu1g"
+path="res://.godot/imported/jurema_profile_happy.png-374f79d7344f324cb713b549048e34c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/kitchen.png"
-dest_files=["res://.godot/imported/kitchen.png-bb7717ea277dc53c53f0e3b213d832c9.ctex"]
+source_file="res://images/jurema_profile_happy.png"
+dest_files=["res://.godot/imported/jurema_profile_happy.png-374f79d7344f324cb713b549048e34c3.ctex"]
 
 [params]
 

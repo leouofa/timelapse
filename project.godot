@@ -22,13 +22,18 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"aphrodite": "res://characters/aphrodite.dch",
 "horus": "res://characters/horus.dch",
+"jurema": "res://characters/jurema.dch",
+"lucifer": "res://characters/lucifer.dch",
 "osiris": "res://characters/osiris.dch",
 "vox": "res://characters/vox.dch"
 }
 directories/dtl_directory={
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
-"second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl"
+"fourth_timeline": "res://timelines/fourth_timeline.dtl",
+"second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl",
+"third_timeline": "res://timelines/third_timeline.dtl"
 }
 layout/style_directory={
 "": "res://speech_styles/default.tres",
@@ -101,5 +106,6 @@ dialogic_default_action={
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
 textures/vram_compression/import_etc2_astc=true
