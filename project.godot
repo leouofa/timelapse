@@ -23,6 +23,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "aphrodite": "res://characters/aphrodite.dch",
+"atum": "res://characters/atum.dch",
 "horus": "res://characters/horus.dch",
 "jurema": "res://characters/jurema.dch",
 "lucifer": "res://characters/lucifer.dch",
