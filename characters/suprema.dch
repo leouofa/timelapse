@@ -1,0 +1,103 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+&"_translation_id": "",
+&"color": Color(1, 1, 1, 1),
+&"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "Pro",
+&"description": "",
+&"display_name": "Suprema",
+&"mirror": false,
+&"nicknames": [""],
+&"offset": Vector2(0, 0),
+&"portraits": {
+"Left": {
+"export_overrides": {
+"image": "\"res://images/suprema_left.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Left Angry": {
+"export_overrides": {
+"image": "\"res://images/suprema_left_angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Left Happy": {
+"export_overrides": {
+"image": "\"res://images/suprema_left_happy.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Pro": {
+"export_overrides": {
+"image": "\"res://images/suprema_profile.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Pro Angry": {
+"export_overrides": {
+"image": "\"res://images/suprema_profile_angry.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Pro Happy": {
+"export_overrides": {
+"image": "\"res://images/suprema_profile_happy.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Right": {
+"export_overrides": {
+"image": "\"res://images/suprema_left.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Right Angry": {
+"export_overrides": {
+"image": "\"res://images/suprema_left_angry.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"Right Happy": {
+"export_overrides": {
+"image": "\"res://images/suprema_left_happy.png\""
+},
+"mirror": true,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+&"scale": 1.0
+}

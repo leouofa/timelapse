@@ -27,6 +27,7 @@ directories/dch_directory={
 "jurema": "res://characters/jurema.dch",
 "lucifer": "res://characters/lucifer.dch",
 "osiris": "res://characters/osiris.dch",
+"suprema": "res://characters/suprema.dch",
 "vox": "res://characters/vox.dch",
 "zeus": "res://characters/zeus.dch"
 }
