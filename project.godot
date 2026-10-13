@@ -27,7 +27,8 @@ directories/dch_directory={
 "jurema": "res://characters/jurema.dch",
 "lucifer": "res://characters/lucifer.dch",
 "osiris": "res://characters/osiris.dch",
-"vox": "res://characters/vox.dch"
+"vox": "res://characters/vox.dch",
+"zeus": "res://characters/zeus.dch"
 }
 directories/dtl_directory={
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
