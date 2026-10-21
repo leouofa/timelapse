@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/third_timeline.ogg"
+audio music "res://music/03_timeline.ogg"
 [background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
 join lucifer (Left) rightmost
 join jurema (Right) leftmost
@@ -37,4 +37,4 @@ audio music -
 [wait time="1.0"]
 Next day ...
 [wait time="1.0"]
-jump fourth_timeline/
+jump 04_timeline/

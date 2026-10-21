@@ -11,7 +11,7 @@ Three characters — Osiris, Voxar, and Horus — discuss an elaborate time-trav
 ```
 main_menu.tscn / main_menu.gd   Title screen with New Game / Continue
 timelines/
-  first_timeline_kitchen.dtl     The game's dialogue timeline
+  01_timeline.dtl                Dialogue timelines (01_timeline through 08_timeline)
 characters/
   horus.dch, osiris.dch, vox.dch  Character definitions (portraits, colors)
 images/                          Portrait art and backgrounds
@@ -43,7 +43,7 @@ main_menu._ready()
   |-- if no save      -->  hides "Continue" button
   |
   +---> [New Game]  -->  delete old save (if any)
-  |                      Dialogic.start("first_timeline_kitchen")
+  |                      Dialogic.start("01_timeline")
   |                      [save] event creates the default save slot
   |                      autosave keeps it updated on every timeline jump
   |

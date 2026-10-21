@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/timeline_four.ogg"
+audio music "res://music/04_timeline.ogg"
 [background arg="res://backgrounds/suprema_castle.jpeg" fade="0.0"]
 join suprema (Right) leftmost
 join aphrodite (Left) rightmost
@@ -25,4 +25,4 @@ audio music -
 [wait time="1.0"]
 Later that day ...
 [wait time="1.0"]
-jump fifth_timeline/
+jump 05_timeline/

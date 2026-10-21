@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cx3qmwg6q4ew6"
-path="res://.godot/imported/second_timeline.ogg-47eaa56b679b1134ddb3f84d67e6ba0c.oggvorbisstr"
+path="res://.godot/imported/02_timeline.ogg-e88cc4458ba6dce83fbe81a35f19a12b.oggvorbisstr"
 
 [deps]
 
-source_file="res://music/second_timeline.ogg"
-dest_files=["res://.godot/imported/second_timeline.ogg-47eaa56b679b1134ddb3f84d67e6ba0c.oggvorbisstr"]
+source_file="res://music/02_timeline.ogg"
+dest_files=["res://.godot/imported/02_timeline.ogg-e88cc4458ba6dce83fbe81a35f19a12b.oggvorbisstr"]
 
 [params]
 

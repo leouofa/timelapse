@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/sixth_timeline.ogg"
+audio music "res://music/06_timeline.ogg"
 [background arg="res://backgrounds/zeus_castle.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
 join zeus (Left) rightmost
@@ -34,4 +34,4 @@ audio music -
 [wait time="1.0"]
 20 minutes later ...
 [wait time="1.0"]
-jump seventh_timeline/
+jump 07_timeline/

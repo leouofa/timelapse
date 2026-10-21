@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/timeline_five.ogg"
+audio music "res://music/05_timeline.ogg"
 [background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
 join jurema (Left) rightmost
@@ -17,4 +17,4 @@ audio music -
 [wait time="1.0"]
 2 hours later ...
 [wait time="1.0"]
-jump eigth_timeline/
+jump 08_timeline/

@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/timeline_five.ogg"
+audio music "res://music/05_timeline.ogg"
 [background arg="res://backgrounds/atum_castle.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
 join atum  (Left) rightmost

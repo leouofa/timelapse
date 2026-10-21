@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/first_timeline_kitchen.ogg"
+audio music "res://music/01_timeline.ogg"
 [background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join osiris (Right) leftmost
 join vox (Left) rightmost
@@ -58,4 +58,4 @@ audio music -
 [wait time="1.0"]
 One year later ...
 [wait time="1.0"]
-jump second_timeline_appartment/
+jump 02_timeline/

@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/second_timeline.ogg"
+audio music "res://music/02_timeline.ogg"
 [background arg="res://backgrounds/heavenly_council_room.jpeg" fade="0.0"]
 join horus (Right) leftmost
 join osiris (Left) rightmost
@@ -42,4 +42,4 @@ audio music -
 [wait time="1.0"]
 One week later ...
 [wait time="1.0"]
-jump third_timeline/
+jump 03_timeline/

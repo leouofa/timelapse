@@ -15,7 +15,7 @@ func _on_new_game_pressed() -> void:
 		Dialogic.Save.delete_slot(slot)
 	visible = false
 	music.stop()
-	Dialogic.start("first_timeline_kitchen")
+	Dialogic.start("01_timeline")
 
 
 func _on_continue_pressed() -> void:
