@@ -23,13 +23,17 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "aphrodite": "res://characters/aphrodite.dch",
+"atum": "res://characters/atum.dch",
 "horus": "res://characters/horus.dch",
 "jurema": "res://characters/jurema.dch",
 "lucifer": "res://characters/lucifer.dch",
 "osiris": "res://characters/osiris.dch",
-"vox": "res://characters/vox.dch"
+"suprema": "res://characters/suprema.dch",
+"vox": "res://characters/vox.dch",
+"zeus": "res://characters/zeus.dch"
 }
 directories/dtl_directory={
+"fifth_timeline": "res://timelines/fifth_timeline.dtl",
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
 "fourth_timeline": "res://timelines/fourth_timeline.dtl",
 "second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl",
