@@ -35,6 +35,6 @@ leave aphrodite
 audio music -
 [background arg="#84efffff" fade="0.5" transition="Simple Fade"]
 [wait time="1.0"]
-Later that day ...
+Next day ...
 [wait time="1.0"]
 jump fourth_timeline/

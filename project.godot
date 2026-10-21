@@ -33,6 +33,7 @@ directories/dch_directory={
 "zeus": "res://characters/zeus.dch"
 }
 directories/dtl_directory={
+"fifth_timeline": "res://timelines/fifth_timeline.dtl",
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
 "fourth_timeline": "res://timelines/fourth_timeline.dtl",
 "second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl",
