@@ -1,0 +1,37 @@
+[save slot=""]
+audio music "res://music/sixth_timeline.ogg"
+[background arg="res://backgrounds/zeus_castle.jpeg" fade="0.0"]
+join aphrodite (Right) leftmost
+join zeus (Left) rightmost
+aphrodite: Dad, we need to talk to you.
+aphrodite: Lucifer is not doing well.
+zeus: I was hoping you'd say that.
+aphrodite: Dad, I need you to be serious right now.
+aphrodite: I know you hate him, but its important.
+zeus: I don't hate him, he's just not likeable.
+aphrodite: Regardless, you have to help us fix what happened.
+zeus: What happened?
+aphrodite: He got timelined by Vox, Horus and Osiris.
+zeus: What do you want me to do about this?
+leave aphrodite
+join jurema (Right Angry) leftmost
+jurema: More then what you are doing right now!
+jurema: How would you like this if it happened to you?
+zeus: I don't even what getting timelined means.
+zeus: Sounds like drugs and I am categorically against that.
+jurema: I need you to convince Osiris to reverse this.
+zeus: Reverse what?!
+jurema: I'd rather talk to punching bag!
+jurema: Aphrodite, let's go.
+leave jurema
+join aphrodite (Right Angry) leftmost
+aphrodite: Thanks a lot!
+aphrodite: Really appreciate your help.
+leave aphrodite
+leave zeus 
+audio music -
+[background arg="#84efffff" fade="0.5" transition="Simple Fade"]
+[wait time="1.0"]
+20 minutes later ...
+[wait time="1.0"]
+jump seventh_timeline/

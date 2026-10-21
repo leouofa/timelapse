@@ -1,0 +1,27 @@
+[save slot=""]
+audio music "res://music/timeline_five.ogg"
+[background arg="res://backgrounds/atum_castle.jpeg" fade="0.0"]
+join aphrodite (Right) leftmost
+join atum  (Left) rightmost
+aphrodite: Atum, we've come to see you to talk about what happened to Lucifer.
+atum: Go on.
+aphrodite: He was timelined by Vox, Osiris and Horus.
+aphrodite: Now he longer has will to live.
+aphrodite: We believe the same thing has happened to Watsu.
+atum: I understand.
+atum: Osiris must have his reasons.
+leave aphrodite 
+join jurema (Right) leftmost 
+jurema: He belives they are both psycoaths and murderes.
+atum: I understand.
+jurema: We think its a mistake to do something as extreme as this.
+atum: Do you know what actually happened?
+jurema: Not really, but I think Vox should have showed him mercy.
+leave jurema 
+join aphrodite (Right) leftmost 
+aphrodite: Me too.
+atum: Do you know if mercy was possible?
+aphrodite: I'm not sure.
+atum: Maybe you should talk to Vox about what happened.
+aphrodite: We would but we can't agree on who should.
+atum: You may be having a different issue altogether.
