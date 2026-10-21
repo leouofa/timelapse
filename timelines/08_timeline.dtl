@@ -2,26 +2,37 @@
 audio music "res://music/05_timeline.ogg"
 [background arg="res://backgrounds/atum_castle.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
-join atum  (Left) rightmost
-aphrodite: Atum, we've come to see you to talk about what happened to Lucifer.
-atum: Go on.
-aphrodite: He was timelined by Vox, Osiris and Horus.
-aphrodite: Now he longer has will to live.
-aphrodite: We believe the same thing has happened to Watsu.
-atum: I understand.
-atum: Osiris must have his reasons.
+join atum (Left) rightmost
+aphrodite: Lord Atum, Prime Creator... we bring a grave crisis of cosmic justice before you.
+atum: I hear you. Breathe. Take this space.
+aphrodite: Lucifer was maliciously timelined by Vox, Osiris, and Horus!
+aphrodite: They flung him into the void for trillions of years! Now he has zero will to live and screams at blueberries!
+aphrodite: And Watsu suffered the exact same fate!
+atum: I understand. And how does that make you feel, Aphrodite?
+aphrodite: How does it make me feel?! It makes me furious!
 leave aphrodite 
 join jurema (Right) leftmost 
-jurema: He belives they are both psycoaths and murderes.
-atum: I understand.
-jurema: We think its a mistake to do something as extreme as this.
-atum: Do you know what actually happened?
-jurema: Not really, but I think Vox should have showed him mercy.
+jurema: Osiris and Vox claim Lucifer and Watsu are psychopaths and murderers who deserved it.
+atum: Mmm. Valid perception.
+jurema: But this punishment is completely inhumane! Vox should have shown mercy!
 leave jurema 
 join aphrodite (Right) leftmost 
-aphrodite: Me too.
-atum: Do you know if mercy was possible?
-aphrodite: I'm not sure.
-atum: Maybe you should talk to Vox about what happened.
-aphrodite: We would but we can't agree on who should.
-atum: You may be having a different issue altogether.
+aphrodite: Exactly! We came to you so you could order them to reverse it!
+atum: Do you feel heard right now, Aphrodite?
+aphrodite: What?! No! Lucifer is catatonic!
+atum: Notice how you deflect Lucifer's trauma to avoid the friction in this room.
+atum: When you arrived, Jurema crossed her arms, and you avoided eye contact for three minutes.
+leave aphrodite
+join jurema (Right) leftmost
+jurema: Wait... are you giving us couples therapy right now?!
+atum: I am observing an unhealthy cycle of projection and external blame.
+atum: You want to fix Lucifer because addressing your own co-dependent communication is too vulnerable.
+leave jurema
+join aphrodite (Right Angry) leftmost
+aphrodite: Atum! A god was hurled into the abyss of non-existence!
+atum (Left Happy): And that is his journey. For your journey, I am prescribing homework.
+atum: Walk down to Vox's kitchen. Hold hands. Use 'I feel' statements.
+aphrodite: ... I think I'd rather be timelined.
+leave aphrodite
+leave atum
+audio music -

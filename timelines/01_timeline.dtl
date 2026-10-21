@@ -3,22 +3,23 @@ audio music "res://music/01_timeline.ogg"
 [background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join osiris (Right) leftmost
 join vox (Left) rightmost
-osiris (Right): How would that work?
-vox: A ship. Fling him back. A trillion years.
-vox: Light speed. Pointed exactly here.
-vox (Left Angry): He hits this wall in five minutes. Terminal velocity.
-vox (Left Angry): The view? Just the void. Shifting colors. Snail pace.
-vox: Billions of years just to see a new shade of blue.
-vox (Left Angry): Add a pure tone. Shifting upward. Endlessly.
-osiris (Pro): We could do that.
-osiris (Pro Angry): Horus, can you prepare a vessel?
+osiris (Right): So walk me through it again. How does this 'prank' actually work?
+vox: A ship. Fling him back. One trillion years.
+vox: Light speed. Pointed exactly at this kitchen wall.
+vox (Left Angry): In real time, he impacts in five minutes. Terminal velocity.
+vox (Left Angry): But from his perspective? Eternal void. Snail pace.
+vox: Billions of years just to see the darkness slowly shift from navy to slightly darker navy.
+vox (Left Angry): And the soundtrack? A single pure Shepard tone. Pitching upward forever.
+osiris (Pro): ... That is wonderfully disproportionate. What did Lucifer even do to you?
+vox (Left Angry): He left an empty milk carton in the fridge. With the cap off.
+osiris (Pro Angry): Say no more. Horus, is the vessel prepped?
 leave vox
 join horus (Left) rightmost
-horus (Left): Already have one ready.
+horus (Left): Engines purring. Flight plan locked.
 leave osiris
 leave horus
 join vox (Pro Angry LG) center
-vox (Pro Angry LG): Enjoy the absolute nothing, motherfucker.
+vox (Pro Angry LG): Enjoy the absolute nothing, Lucifer.
 leave vox
 [background arg="#e8390eff" fade="0.0"]
 [wait time="0.5"]
@@ -28,11 +29,11 @@ leave vox
 [background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join vox (Left Angry) rightmost
 join osiris (Right Angry) leftmost
-osiris (Right Angry): He's about to hit.
-vox (Left Happy): Let's pull him out and resend him.
-vox (Left Happy): A hundred thousand trillion this time.
-osiris (Pro Happy): That's a funny prank.
-osiris (Pro Happy): And people say I don't have a sense of humor.
+osiris (Right Angry): He's about to hit the wall!
+vox (Left Happy): Pull him out at the last second and re-launch him!
+vox (Left Happy): One hundred thousand trillion years this time!
+osiris (Pro Happy): Now that's what I call divine comedy.
+osiris (Pro Happy): And they say the Egyptian pantheon lacks a sense of humor.
 leave vox
 leave osiris
 [background arg="#e8390eff" fade="0.0"]
@@ -43,14 +44,14 @@ leave osiris
 [background arg="res://backgrounds/kitchen.png" fade="0.0"]
 join vox (Left) rightmost
 join osiris (Right) leftmost
-vox (Left Happy): We could it again.
-vox (Pro Happy): This time hundred thousand trill to the power of itself.
-osiris (Right Happy): He's a frequent flyer on Horus Airlines.
+vox (Left Happy): We could do it one more time.
+vox (Pro Happy): One hundred thousand trillion to the power of itself.
+osiris (Right Happy): The man is officially a platinum flyer on Horus Airlines.
 leave osiris
 join horus (Right) leftmost
-horus (Right Happy): First two trips were first class.
-horus (Right Happy): Third one's coach.
-horus (Pro Happy): No upgrades.
+horus (Right Happy): First two trips were complimentary first class.
+horus (Right Happy): Third one's basic economy. Middle seat.
+horus (Pro Happy): No upgrades. No legroom.
 leave horus
 leave vox
 audio music -

@@ -3,38 +3,37 @@ audio music "res://music/02_timeline.ogg"
 [background arg="res://backgrounds/heavenly_council_room.jpeg" fade="0.0"]
 join horus (Right) leftmost
 join osiris (Left) rightmost
-horus: What happened to Watsu?
-osiris: I'm not sure.
-horus: Did he get timelined?
+horus: Hey Osiris, whatever happened to Watsu?
+osiris: Who?
+horus: You know, Watsu. Our beta tester before we launched Lucifer.
+osiris: Oh. Honestly? No clue. He might still be drifting near the Big Bang.
 join aphrodite (Pro Angry LG) center
-aphrodite: This has to stop!
+aphrodite: This institutional cruelty has to stop!
 leave osiris
 update aphrodite (Left Angry) rightmost [animation="Heartbeat" fade="Fade Cross" fade_length="0.2"]
-horus: What are you talking about?
-aphrodite: The treatmeant of Watsu.
-aphrodite: He is a personal friend of mine,  and a hero to many goddesses.
-aphrodite: Suprema is going to award him a medal of the goddess.
-horus: ???
-horus: That's fine and all, but he's still a psychopath and a murderer.
-horus (Right Angry): Do you plan to do anything about this.
-aphrodite (Left): He is under our protection.
+horus: Aphrodite? What are you yelling about?
+aphrodite: The horrific treatment of Watsu!
+aphrodite: He is a dear personal friend of mine and a hero to the goddesses.
+aphrodite: Suprema is literally preparing to award him the Medal of Celestial Honor!
+horus: Medal of Honor?!
+horus: Aphrodite, Watsu is a certified psychopath and a serial murderer.
+horus (Right Angry): The council has twenty-four active warrants out for him!
+aphrodite (Left): He is eccentric, misunderstood, and under our sanctuary protection.
 leave horus [animation="Bounce Out"]
 join osiris (Right Angry) leftmost [animation="Bounce In"]
-osiris: ummm ok ...
+osiris: Well, if he ever lands, we're flinging him straight to the underworld.
 leave osiris [animation="Bounce Out"]
 join horus (Pro) leftmost [animation="Bounce In"]
-horus (Right): We still need to do something about this.
-aphrodite: That's your problem not mine.
+horus (Right): And that's if he survives re-entry at light speed.
+aphrodite: You will touch him over Suprema's dead body!
 leave horus [animation="Bounce Out"]
 join osiris (Pro) leftmost [animation="Bounce In"]
-osiris (Right): We plan to send him to hell.
-aphrodite: Over Suprema's dead body.
-osiris (Right): I hope she dies and takes him with her.
-aphrodite: I'll pass the message over.
-osiris (Right Angry): Horus, do we have any poision we can lend her?
+osiris (Right): Don't tempt me with a good time.
+osiris (Right Angry): Horus, do we still have that vial of poison in the pantry?
 leave osiris [animation="Bounce Out"]
 join horus (Pro) leftmost [animation="Bounce In"]
-horus (Pro Happy): I have some prepared just for her.
+horus (Pro Happy): Vintage belladonna extract. Kept cold just for her.
+aphrodite: I am reporting this directly to the High Council!
 leave horus [animation="Bounce Out"]
 leave aphrodite [animation="Bounce In"]
 audio music -

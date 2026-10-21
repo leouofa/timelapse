@@ -3,21 +3,22 @@ audio music "res://music/04_timeline.ogg"
 [background arg="res://backgrounds/suprema_castle.jpeg" fade="0.0"]
 join suprema (Right) leftmost
 join aphrodite (Left) rightmost
-aphrodite (Left): I need to talk to you about what happened to Lucifer!
-suprema: I am not in the mood.
-aphrodite (Left Angry): Its more important then your mood swings.
+aphrodite (Left): Suprema! You have to listen! Horus poisoned you, and they exiled Lucifer through time!
+suprema: Aphrodite... if you do not lower your voice by twelve octaves, I will unmake you.
+aphrodite (Left Angry): But your sacred health! Heaven is in shambles!
+suprema: Heaven is fine. My skull, however, is being pounded by twelve celestial blacksmiths.
 leave aphrodite
 join jurema (Left) rightmost
-jurema (Left Angry): The state of heaven is at stake!
-suprema (Right Angry): Talk to Osiris!
+jurema (Left Angry): So the poison was real! Horus used neurotoxins!
+suprema (Right Angry): It wasn't poison, you idiot! I drank three carafes of Dionysian fermented nectar at the solstice gala!
+suprema (Right): I don't have a mortal affliction. I have a hangover.
 leave jurema
 join aphrodite (Left Angry) rightmost
-aphrodite: He's the reason we're having this problem in the first place.
-suprema (Right): Then talk to Zeus or Atum.
-suprema: This does not concern me.
-aphrodite: You are heartless!
-suprema: You know nothing about the heart or the order of heavens.
-suprema (Right Angry): Now leave!
+aphrodite: Wait... you're not on your deathbed? You're just ignoring Lucifer's crisis?!
+suprema: Lucifer left a half-eaten tuna sandwich in the council fridge. He brought this on himself.
+suprema (Right): Go bother Zeus. Or Atum. Go bother anyone who isn't currently allergic to direct sunlight.
+aphrodite: You are an uncaring monarch!
+suprema (Right Angry): I am a monarch with a migraine. Out! Both of you!
 leave suprema
 leave aphrodite
 audio music -

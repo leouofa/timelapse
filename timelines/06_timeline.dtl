@@ -3,30 +3,30 @@ audio music "res://music/06_timeline.ogg"
 [background arg="res://backgrounds/zeus_castle.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
 join zeus (Left) rightmost
-aphrodite: Dad, we need to talk to you.
-aphrodite: Lucifer is not doing well.
-zeus: I was hoping you'd say that.
-aphrodite: Dad, I need you to be serious right now.
-aphrodite: I know you hate him, but its important.
-zeus: I don't hate him, he's just not likeable.
-aphrodite: Regardless, you have to help us fix what happened.
-zeus: What happened?
-aphrodite: He got timelined by Vox, Horus and Osiris.
-zeus: What do you want me to do about this?
+aphrodite: Dad, we need to talk to you. It's an emergency.
+zeus: If it's about the lightning bill, Hera authorized the thunder, not me.
+aphrodite: It's about Lucifer! He is in terrible shape.
+zeus: I was hoping you'd say that. Boy is an eyesore.
+aphrodite: Dad, please be serious for once!
+zeus: I am serious. He wears leather in August. He's simply not likeable.
+aphrodite: Regardless! He got timelined by Vox, Horus, and Osiris!
+zeus: He got what?
+aphrodite: Timelined! They flung him across trillions of years of empty space!
+zeus (Left Angry): Timelined?! Is that what the kids are calling it now?!
 leave aphrodite
 join jurema (Right Angry) leftmost
-jurema: More then what you are doing right now!
-jurema: How would you like this if it happened to you?
-zeus: I don't even what getting timelined means.
-zeus: Sounds like drugs and I am categorically against that.
-jurema: I need you to convince Osiris to reverse this.
-zeus: Reverse what?!
-jurema: I'd rather talk to punching bag!
-jurema: Aphrodite, let's go.
+jurema: Calling what?!
+zeus: Temporal narcotics! Synthetic chronos!
+zeus: I saw the pamphlet from Mount Olympus High. You take one hit of a localized wormhole behind the gymnasium, and bam—you're hooked on light speed!
+jurema: It's not a drug, you lunatic! It's a localized spacetime execution!
+zeus: Back in my day, we didn't need fancy dimensions to rebel! We turned into swans and ruined people's lives with dignity!
+zeus: Tell that fallen prince to drink a tall glass of tap water, sweat out the timelines, and just say no!
+jurema: I'd get more intellectual nuance from a punching bag!
+jurema: Aphrodite, let's get out of here.
 leave jurema
 join aphrodite (Right Angry) leftmost
-aphrodite: Thanks a lot!
-aphrodite: Really appreciate your help.
+aphrodite: Thanks for the parenting, Dad. Outstanding as always.
+zeus: Remember: Winners don't do time dilation!
 leave aphrodite
 leave zeus 
 audio music -
