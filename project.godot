@@ -33,10 +33,12 @@ directories/dch_directory={
 "zeus": "res://characters/zeus.dch"
 }
 directories/dtl_directory={
+"eigth_timeline": "res://timelines/eigth_timeline.dtl",
 "fifth_timeline": "res://timelines/fifth_timeline.dtl",
 "first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
 "fourth_timeline": "res://timelines/fourth_timeline.dtl",
 "second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl",
+"seventh_timeline": "res://timelines/seventh_timeline.dtl",
 "sixth_timeline": "res://timelines/sixth_timeline.dtl",
 "third_timeline": "res://timelines/third_timeline.dtl"
 }
