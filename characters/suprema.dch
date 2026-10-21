@@ -77,7 +77,7 @@
 },
 "mirror": true,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 1.0,
 "scene": ""
 },
 "Right Angry": {

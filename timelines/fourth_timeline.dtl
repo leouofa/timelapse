@@ -1,6 +1,20 @@
 [save slot=""]
 audio music "res://music/second_timeline.ogg"
-[background arg="res://backgrounds/heavenly_council_room.jpeg" fade="0.0"]
+[background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
 join suprema (Right) leftmost
 join aphrodite (Left) rightmost
-suprema: yoyo
+aphrodite (Left): I need to talk to you about what happened to Lucifer!
+suprema: I am not in the mood
+aphrodite (Left Angry): Its more important then your mood swings
+leave aphrodite
+join jurema (Left) rightmost
+jurema (Left Angry): The state of heaven is at stake!
+suprema (Right Angry): Talk to Osiris
+leave jurema
+join aphrodite (Left Angry) rightmost
+aphrodite: He's the reason we're having this problem in the first place
+suprema (Right): Then talk to Zeus or Atum
+suprema: This does not concern me
+aphrodite: You are heartless!
+suprema: You know nothing about the heart or the order of heavens
+suprema (Right Angry): Now leave!
