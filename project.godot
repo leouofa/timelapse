@@ -33,14 +33,14 @@ directories/dch_directory={
 "zeus": "res://characters/zeus.dch"
 }
 directories/dtl_directory={
-"eigth_timeline": "res://timelines/eigth_timeline.dtl",
-"fifth_timeline": "res://timelines/fifth_timeline.dtl",
-"first_timeline_kitchen": "res://timelines/first_timeline_kitchen.dtl",
-"fourth_timeline": "res://timelines/fourth_timeline.dtl",
-"second_timeline_appartment": "res://timelines/second_timeline_appartment.dtl",
-"seventh_timeline": "res://timelines/seventh_timeline.dtl",
-"sixth_timeline": "res://timelines/sixth_timeline.dtl",
-"third_timeline": "res://timelines/third_timeline.dtl"
+"01_timeline": "res://timelines/01_timeline.dtl",
+"02_timeline": "res://timelines/02_timeline.dtl",
+"03_timeline": "res://timelines/03_timeline.dtl",
+"04_timeline": "res://timelines/04_timeline.dtl",
+"05_timeline": "res://timelines/05_timeline.dtl",
+"06_timeline": "res://timelines/06_timeline.dtl",
+"07_timeline": "res://timelines/07_timeline.dtl",
+"08_timeline": "res://timelines/08_timeline.dtl"
 }
 layout/style_directory={
 "": "res://speech_styles/default.tres",

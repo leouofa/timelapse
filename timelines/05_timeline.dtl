@@ -1,0 +1,25 @@
+[save slot=""]
+audio music "res://music/05_timeline.ogg"
+[background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
+join aphrodite (Right) leftmost
+join jurema (Left) rightmost
+aphrodite: Well, Suprema was entirely useless.
+jurema: At least we know she isn't dying of Egyptian poison. Just poor life choices.
+aphrodite: That doesn't help Lucifer! What are we going to do with him?
+jurema: I don't know... he refuses to leave his room.
+jurema: He broke all the digital clocks, threw out his blue jeans, and started screaming when the sky turned azure.
+aphrodite: Horus told me the ship had no windshield wipers, just a billion light-years of blue shift.
+jurema: Can't someone just... undo it? Fly him backward into the future?
+aphrodite: Undo eternity? Jurema, physics isn't an undo button.
+jurema: Do you have a better idea?
+aphrodite: Maybe my dad can help. Zeus has raw authority over celestial ordinances.
+jurema: Zeus? Has he ever solved a problem without creating three illegitimate demigods first?
+aphrodite: Hey, he's still King of Olympus. Let's go before Lucifer tries to paint the clouds yellow.
+leave jurema
+leave aphrodite
+audio music -
+[background arg="#84efffff" fade="0.5" transition="Simple Fade"]
+[wait time="1.0"]
+Later that day ...
+[wait time="1.0"]
+jump 06_timeline/

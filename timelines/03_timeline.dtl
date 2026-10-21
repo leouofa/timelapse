@@ -1,0 +1,43 @@
+[save slot=""]
+audio music "res://music/03_timeline.ogg"
+[background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
+join lucifer (Left) rightmost
+join jurema (Right) leftmost
+jurema: Lucifer, sweetie, are you feeling any better?
+lucifer: I don't think I will ever feel 'better' in this continuum.
+jurema (Right Angry): What did Osiris and Vox do to you?
+lucifer (Left Angry): Words fail. The English language doesn't have enough vowels for the horror.
+leave jurema [animation="Bounce Out"]
+join aphrodite (Right Angry) leftmost [animation="Bounce In"]
+aphrodite: I just don't get it. Everything was totally fine yesterday!
+update lucifer (Left Angry)
+lucifer (Left Angry): DO NOT SAY THAT WORD.
+aphrodite: What word? Yesterday?
+lucifer (Left Angry): 'Yesterday' is a cute mortal fairytale!
+lucifer (Left Angry): I spent four hundred quadrillion subjective years in the belly of a supersonic sardine tin!
+lucifer: You don't know the agony of watching absolute darkness slowly shift into Prussian blue over nine thousand millennia!
+leave aphrodite [animation="Bounce Out"]
+join jurema (Right Angry) leftmost [animation="Bounce In"]
+jurema: Okay, take a breath. Give us just a second to—
+lucifer (Left Angry): A SECOND?!
+lucifer (Left Angry): Do you know how many eons fit into a second at light speed?! Don't throw seconds around like pocket change!
+lucifer: I need to speak to Suprema right now. Where is she?
+jurema: She's locked herself in her bedchamber. She won't see anyone.
+lucifer (Left Angry): Why not?!
+aphrodite: She fell violently ill.
+update lucifer (Pro LG) center [fade="Fade Cross"]
+join aphrodite (Left) rightmost [animation="Bounce In"]
+aphrodite: I think Horus poisoned her.
+aphrodite: He literally joked about having poison prepared for her last week!
+jurema: A joke which I personally found completely tasteless.
+update lucifer (Pro LG) [animation="Heartbeat" fade="Fade Cross"]
+lucifer (Pro Angry LG): Great. The supreme ruler is assassinated, and my eyes are permanently burned with cyan.
+leave lucifer
+leave jurema
+leave aphrodite
+audio music -
+[background arg="#84efffff" fade="0.5" transition="Simple Fade"]
+[wait time="1.0"]
+Next day ...
+[wait time="1.0"]
+jump 04_timeline/

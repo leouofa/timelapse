@@ -1,0 +1,22 @@
+[save slot=""]
+audio music "res://music/05_timeline.ogg"
+[background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
+join aphrodite (Right) leftmost
+join jurema (Left) rightmost
+jurema: That was magnificent. Zeus thinks the fabric of spacetime is angel dust.
+aphrodite: Atum is our absolute last resort. He created the universe; surely he knows how to un-spool Lucifer's brain.
+aphrodite: Mind heading up there by yourself? I figured I'd drop in on Vox and demand answers.
+jurema (Left Angry): Oh, how convenient. You want me to hike up Mount Creation while you go flirt with the suspect?
+aphrodite (Right Angry): Flirt?! Vox literally banished our friend to the heat death of the universe!
+jurema: Exactly! You're using Atum as a distraction because you're scared of direct confrontation!
+aphrodite: I am not scared! I just think dividing our forces is strategic!
+jurema: We are sticking together. We talk to Atum first, get his divine decree, and then corner Vox.
+aphrodite: Fine! But if Atum speaks in five-hour rhyming metaphors, you're the one taking notes.
+leave jurema
+leave aphrodite
+audio music -
+[background arg="#84efffff" fade="0.5" transition="Simple Fade"]
+[wait time="1.0"]
+2 hours later ...
+[wait time="1.0"]
+jump 08_timeline/
