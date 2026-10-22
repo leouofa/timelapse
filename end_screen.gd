@@ -13,6 +13,9 @@ var _tween: Tween
 
 
 func _ready() -> void:
+	play_again_button.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
+	main_menu_button.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
+	quit_button.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
 	play_again_button.pressed.connect(_on_play_again_pressed)
 	main_menu_button.pressed.connect(_on_main_menu_pressed)
 	quit_button.pressed.connect(_on_quit_button_pressed)

@@ -5,6 +5,7 @@
 [ext_resource type="AudioStream" uid="uid://dojlhe5ybf7ou" path="res://music/Three Red Hearts Three Red Hearts.ogg" id="3_fu7sn"]
 [ext_resource type="PackedScene" path="res://end_screen.tscn" id="4_endscreen"]
 [ext_resource type="PackedScene" path="res://pause_menu.tscn" id="5_pausemenu"]
+[ext_resource type="Theme" path="res://synthwave_theme.tres" id="6_theme"]
 
 [node name="MainMenu" type="Control" unique_id=1686684641]
 layout_mode = 3
@@ -41,6 +42,7 @@ offset_right = 150.0
 offset_bottom = 100.0
 grow_horizontal = 2
 grow_vertical = 2
+theme = ExtResource("6_theme")
 theme_override_constants/separation = 16
 alignment = 1
 

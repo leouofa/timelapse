@@ -12,6 +12,9 @@ var _is_in_game: bool = false
 
 
 func _ready() -> void:
+	for child in menu_container.get_children():
+		if child is Button:
+			child.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
 	_update_continue_button()
 	music.play()
 

@@ -11,6 +11,8 @@ signal main_menu_pressed
 func _ready() -> void:
 	process_mode = Node.PROCESS_MODE_ALWAYS
 	visible = false
+	resume_button.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
+	main_menu_button.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
 	resume_button.pressed.connect(_on_resume_pressed)
 	main_menu_button.pressed.connect(_on_main_menu_pressed)
 
