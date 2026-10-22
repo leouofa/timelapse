@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/05_timeline.ogg"
+audio music "res://music/07_timeline.ogg"
 [background arg="res://backgrounds/heaven_hangout.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
 join jurema (Left) rightmost

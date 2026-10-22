@@ -4,6 +4,7 @@ extends Control
 @onready var music: AudioStreamPlayer = $Music
 @onready var menu_container: VBoxContainer = $VBoxContainer
 @onready var continue_button: Button = $VBoxContainer/ContinueButton
+@onready var quit_button: Button = $VBoxContainer/QuitButton
 @onready var end_screen: Control = $EndScreen
 @onready var pause_menu: CanvasLayer = $PauseMenu
 
@@ -12,6 +13,9 @@ var _is_in_game: bool = false
 
 
 func _ready() -> void:
+	for child in menu_container.get_children():
+		if child is Button:
+			child.mouse_default_cursor_shape = Control.CURSOR_POINTING_HAND
 	_update_continue_button()
 	music.play()
 
@@ -98,6 +102,10 @@ func _on_new_game_pressed() -> void:
 func _on_continue_pressed() -> void:
 	_enter_game()
 	Dialogic.Save.load()
+
+
+func _on_quit_pressed() -> void:
+	get_tree().quit()
 
 
 func _on_timeline_started() -> void:
