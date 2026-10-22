@@ -42,7 +42,8 @@ func _load_state(_load_flag := LoadFlags.FULL_LOAD) -> void:
 			await add_character(character, container, character_info.portrait, character_info.position_id)
 			change_character_mirror(character, character_info.get('custom_mirror', false))
 			change_character_z_index(character, character_info.get('z_index', 0))
-			character_nodes[character.get_identifier()].get_child(-1)._load_state(portrait_states.get(character.get_identifier(), {}))
+			if character_nodes.has(character.get_identifier()) and character_nodes[character.get_identifier()].get_child_count() > 0:
+				character_nodes[character.get_identifier()].get_child(-1)._load_state(portrait_states.get(character.get_identifier(), {}))
 		else:
 			push_error('[Dialogic] Failed to load character "' + str(character_identifier) + '".')
 
