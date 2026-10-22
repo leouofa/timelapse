@@ -69,6 +69,12 @@ layout_mode = 2
 mouse_default_cursor_shape = 2
 text = "Continue"
 
+[node name="QuitButton" type="Button" parent="VBoxContainer"]
+custom_minimum_size = Vector2(200, 40)
+layout_mode = 2
+mouse_default_cursor_shape = 2
+text = "Quit"
+
 [node name="Music" type="AudioStreamPlayer" parent="." unique_id=479062540]
 stream = ExtResource("3_fu7sn")
 volume_db = -1.825
@@ -82,3 +88,4 @@ layout_mode = 1
 
 [connection signal="pressed" from="VBoxContainer/NewGameButton" to="." method="_on_new_game_pressed"]
 [connection signal="pressed" from="VBoxContainer/ContinueButton" to="." method="_on_continue_pressed"]
+[connection signal="pressed" from="VBoxContainer/QuitButton" to="." method="_on_quit_pressed"]
