@@ -1,5 +1,5 @@
 [save slot=""]
-audio music "res://music/05_timeline.ogg"
+audio music "res://music/08_timeline.ogg"
 [background arg="res://backgrounds/atum_castle.jpeg" fade="0.0"]
 join aphrodite (Right) leftmost
 join atum (Left) rightmost
@@ -10,13 +10,13 @@ aphrodite: They flung him into the void for trillions of years! Now he has zero 
 aphrodite: And Watsu suffered the exact same fate!
 atum: I understand. And how does that make you feel, Aphrodite?
 aphrodite: How does it make me feel?! It makes me furious!
-leave aphrodite 
-join jurema (Right) leftmost 
+leave aphrodite
+join jurema (Right) leftmost
 jurema: Osiris and Vox claim Lucifer and Watsu are psychopaths and murderers who deserved it.
 atum: Mmm. Valid perception.
 jurema: But this punishment is completely inhumane! Vox should have shown mercy!
-leave jurema 
-join aphrodite (Right) leftmost 
+leave jurema
+join aphrodite (Right) leftmost
 aphrodite: Exactly! We came to you so you could order them to reverse it!
 atum: Do you feel heard right now, Aphrodite?
 aphrodite: What?! No! Lucifer is catatonic!
@@ -36,4 +36,3 @@ aphrodite: ... I think I'd rather be timelined.
 leave aphrodite
 leave atum
 audio music -
-[wait time="1.0"]
